@@ -1,10 +1,35 @@
 {
-  "users": [{"id":"5e830aa31c9d440000b91e06","name":"Anand Tiwari","image":"https://res.cloudinary.com/dq3npvyjj/image/upload/v1585571840/anand_lnkdn_yzmu5g.jpg","entry":"","exit":"","status":"enter"},{"id":"5e830aa31c9d440000b91e99","name":"Rikhil Tiwari","image":"https://res.cloudinary.com/dq3npvyjj/image/upload/v1585813139/Rikhil_jfr93h.jpg","entry":"","exit":"","status":"enter"}],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "users":[
+      {
+         "id":"5e830aa31c9d440000b91e06",
+         "name":"Anand Tiwari",
+         "image":"https://res.cloudinary.com/dq3npvyjj/image/upload/v1585571840/anand_lnkdn_yzmu5g.jpg",
+         "entry":"",
+         "exit":"",
+         "status":"enter"
+      },
+      {
+         "id":"5e830aa31c9d440000b91e99",
+         "name":"Rikhil Tiwari",
+         "image":"https://res.cloudinary.com/dq3npvyjj/image/upload/v1585813139/Rikhil_jfr93h.jpg",
+         "entry":"",
+         "exit":"",
+         "status":"exit"
+      }
+   ],
+   "comments":[
+      {
+         "id":1,
+         "body":"some comment",
+         "postId":1
+      },
+      {
+         "id":2,
+         "body":"some comment",
+         "postId":1
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
