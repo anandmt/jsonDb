@@ -10,8 +10,8 @@
       },
       {
          "id":"5e830aa31c9d440000b91e99",
-         "name":"Rikhil Tiwari",
-         "image":"https://res.cloudinary.com/dq3npvyjj/image/upload/v1585813139/Rikhil_jfr93h.jpg",
+         "name":"Test User",
+         "image":"https://my-json-server.typicode.com/anandmt/jsondb/users",
          "entry":"",
          "exit":"",
          "status":"exit"
